@@ -1,0 +1,2 @@
+#!/bin/sh
+gvim -p src.src image log.log py.py
